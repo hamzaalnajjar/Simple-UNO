@@ -1,0 +1,33 @@
+# Simple UNO Game in Python
+
+## Overview
+
+This is a simple text-based card game inspired by UNO, implemented in Python. The game is designed for two players and follows basic UNO rules.
+
+## How to Play
+
+- Players are dealt 7 cards each at the start.
+- A card from the deck is drawn to start the game.
+- Players take turns playing cards that match the color or value of the top card.
+- If a player can't make a valid move, they draw a card from the deck.
+- The first player to run out of cards wins the game.
+
+## Files
+
+- **uno.py**: The main Python script that contains the game logic.
+
+## How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+
+Navigate to the project directory:
+
+cd your-repo-name
+
+Run Game
+
+
+python uno.py
+
